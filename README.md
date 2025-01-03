@@ -65,7 +65,7 @@ The following Python libraries were used:
 ## Project Structure
 
     SA Heart.csv: Dataset used for the project.
-    main.ipynb: Jupyter Notebook containing the code and analysis.
+    CHD.py: Jupyter Notebook containing the code and analysis.
     README.md: Documentation for the project.
 
 ## References
