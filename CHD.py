@@ -307,6 +307,6 @@ roc_auc_score_cost = metrics.roc_auc_score(y_pred_df.actual, y_pred_df.optimal_c
 roc_auc_score_youden_index, roc_auc_score_cost, roc_auc_score_clf_tree
 
 # %% [markdown]
-#  # Logistic regression using Youden's Index provides the best performance among the three models.
+# Logistic regression using Youden's Index provides the best performance among the three models.
 
 
